@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "beta",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "11.0.611103.400",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "097e243c-32e7-4986-80ca-4636bd485d9d",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=introtofunctions20170330;AccountKey=N2BRFdcbJelr/eOoN2xwDxm1muSgyKBLZK2HN8OIK8IAQVUhauoEQ5NC/BUhLwbgtIdMjPWoJj8EiMIG6XwbQA==",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=introtofunctions20170330;AccountKey=N2BRFdcbJelr/eOoN2xwDxm1muSgyKBLZK2HN8OIK8IAQVUhauoEQ5NC/BUhLwbgtIdMjPWoJj8EiMIG6XwbQA==",
+    "WEBSITE_CONTENTSHARE": "functionapp20170318105614",
+    "WEBSITE_SITE_NAME": "FunctionApp20170318105614",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=introtofunctions20170330;AccountKey=N2BRFdcbJelr/eOoN2xwDxm1muSgyKBLZK2HN8OIK8IAQVUhauoEQ5NC/BUhLwbgtIdMjPWoJj8EiMIG6XwbQA=="
+  }
+}

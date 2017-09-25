@@ -1,0 +1,6 @@
+﻿{
+  "id": "842b7c96c21245fbb7697a033b443e24",
+  "queues": {
+    "maxPollingInterval": 2000 
+  }
+}
